@@ -1,0 +1,29 @@
+20,10,4,6,0,2
+0
+2.5,44,-42.61364,35.56818,42.01691,20
+1,0
+1,1
+2,0
+2,1
+3,1
+3,0
+4,1
+5,1
+4,0
+6,1
+-3.088031,-45.34091,34.94318,-1,38.19719,1,1,500,2000,1,6.00032E-08,0,0,0,0,#FALSE#,0
+4.349092,-15.34091,34.94318,1,68.75494,3,.9,250,1800,2,3.401756E-08,0,0,0,0,#FALSE#,0
+10.00396,-75.34091,34.94318,1,3.819719,6,.05,250,100,3,1.039425E-08,0,0,0,0,#FALSE#,0
+2.778296,-15.34091,34.94318,1,3.819719,9,.05,250,100,2,0,0,0,0,0,#FALSE#,0
+20,1,2,1,2,10,2,0,0,0,2.267837E-06,0,0,0,.9396926,.3490658,0,#FALSE#,0
+40,2,2,1,4,20,1,0,0,0,3.809966E-05,0,0,0,.9396926,-.3490658,0,#FALSE#,0
+20,1,2,2,5,10,4,0,0,0,2.267837E-06,0,0,0,.9396926,.6981317,0,#FALSE#,0
+40,3,2,2,7,20,3,0,0,0,3.809966E-05,0,0,0,.9396926,-.6981317,0,#FALSE#,0
+20,1,2,3,8,10,6,0,0,0,2.267837E-06,0,0,0,.9396926,.1745329,1,#FALSE#,0
+40,4,2,3,10,20,5,0,0,0,3.809966E-05,0,0,0,.9396926,-.1745329,1,#FALSE#,0
+"40º",-106.3636,36.22727
+"20º, dentado en V",12.61364,36.54545
+"RUEDAS HELICOIDALES :
+
+El motor del mecanismo transmite el movimiento mediante engranajes helicoidales. Las ruedas inferiores tienen un ángulo de inclinación de 20 º, mientras que las ruedas del centro tienen un ángulo de inclinación de 40 º. Observe como, en cada momento, hay más de un diente de la rueda conductora en contacto con la rueda conducida. De este modo, la transmisión se vuelve más suave y silenciosa.
+Los engranajes helicoidales transmiten fuerzas axiales considerables. Este efecto puede evitarse usando ruedas dentadas en V, como las superiores en este mecanismo."

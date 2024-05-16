@@ -1,0 +1,28 @@
+20,10,2,0,8,0
+0
+2.5,44,15,12.88636,42.01691,5
+1,0
+1,3
+2,3
+3,3
+2,0
+4,3
+5,3
+6,3
+7,3
+8,3
+-2.268928,-36.81818,16.27841,-1,38.19719,1,1,500,2000,1,4.346688E-08,0,0,0,0,#FALSE#,0
+3.141593,64.43182,16.27841,-1,37.24226,5,.65,333.3333,1300,2,1.748124E-08,0,0,0,0,#FALSE#,0
+80,1,1,1,2,0,0,1.355546,4.927639,1,"",3,#TRUE#,#TRUE#,1.548153E-04,0,0,0
+60,1,1,2,3,0,0,4.927639,1.355546,1,"",3,#TRUE#,#TRUE#,4.898292E-05,0,0,0
+40,1,1,3,4,0,4,1.669723,4.613462,1,"",3,#FALSE#,#TRUE#,9.673743E-06,0,0,0
+60,2,1,3,6,0,3,4.613462,1.669723,1,"",3,#FALSE#,#TRUE#,4.898292E-05,0,0,0
+20,1,1,4,7,0,0,0,0,1,"",3,#TRUE#,#TRUE#,6.023943E-07,0,0,0
+20,2,1,1,8,0,0,0,0,1,"",3,#TRUE#,#TRUE#,6.023943E-07,0,0,0
+40,2,1,2,9,0,0,0,0,1,"",3,#TRUE#,#TRUE#,9.673743E-06,0,0,0
+80,2,1,4,10,0,0,0,0,1,"",3,#TRUE#,#TRUE#,1.548153E-04,0,0,0
+"CONO DE POLEAS :
+
+Este mecanismo se usa, por ejemplo, para seleccionar la velocidad de rotación en los taladros de columna.
+Consta de un árbol motor con un cono de poleas, y de un árbol conducido con un cono de poleas igual, pero invertido. En cada cono de poleas, todas las poleas están unidas al eje y giran a la misma
+velocidad. La correa, normalmente trapezoidal, puede colocarse en diversas posiciones (tantas como poleas contenga el cono), permitiendo así diferentes relaciones de transmisión."

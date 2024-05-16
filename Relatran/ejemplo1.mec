@@ -1,0 +1,22 @@
+20,6,3,3,0,3
+0
+2.5,88,6.136364,7.159091,42.01691,5
+1,0
+1,1
+2,0
+2,1
+3,0
+3,1
+-2.268929,-25.05682,7.073864,-1,38.19719,1,1,500,2000,1,2.92929E-08,0,0,0,0,#FALSE#,0
+2.109495,-5.681818E-02,7.073864,1,22.91831,3,.9,750,1800,2,3.307263E-09,0,0,0,0,#FALSE#,0
+2.692807,29.94318,7.073864,-1,41.25296,5,.9,375,1620,3,3.307263E-09,0,0,0,0,#FALSE#,0
+30,1,2,1,2,15,2,0,0,0,3.059218E-06,0,0,0,.9396926,0,0,#FALSE#,0
+20,2,2,1,4,10,1,0,0,0,6.023943E-07,0,0,0,.9396926,0,0,#FALSE#,0
+40,3,2,1,6,20,2,0,0,0,9.673743E-06,0,0,0,.9396926,0,0,#FALSE#,0
+"Rueda motriz",-40.39773,28.90909
+"Rueda loca",-6.136364,-7.738636
+"Rueda conducida",28.63636,32.14773
+"TREN DE ENGRANAJES SIMPLE :
+
+El mecanismo consta de tres o más ruedas dentadas que engranan. La relación de transmisión viene dada por las caraterísticas de las ruedas motriz y conducida, y no se ve afectada por la presencia de las ruedas intermedias (ruedas locas).
+La función de las ruedas intermedias suele limitarse a invertir el sentido de giro de la rueda conducida."

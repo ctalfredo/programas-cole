@@ -1,0 +1,100 @@
+ARCHIVO "LEAME" DEL PROGRAMA SIMULADOR DE MECANISMOS 2.0 (DEMO)
+
+***** REQUISITOS MÍNIMOS DEL SISTEMA:
+
+PC Pentium
+32 Mb RAM
+Windows 95
+Resolución gráfica 800x600
+Tarjeta gráfica compatible con Direct3D y color de 16 bits (sólo para la vista 3D)
+
+***** INSTALACIÓN:
+
+Ejecute "setup.exe" para iniciar el proceso de instalación.
+La ayuda del simulador precisa HTMLHelp, y la vista 3D las
+subrutinas DirectX. Puede realizar la instalación de estas 
+utilidades desde 
+
+http://download.microsoft.com/download/msdnlib/Install/1.32/W9X2KMeXP/EN-US/hhupd.exe
+http://www.microsoft.com/directx
+
+La versión DEMO es operativa durante 30 días. Están deshabilitadas
+las opciones de impresión y guardar mecanismo. El número de piezas,
+incluyendo ejes, está limitado a 10.
+
+***** INTRODUCCIÓN AL PROGRAMA:
+
+El programa facilita el diseño de mecanismos sencillos que incluyan 
+engranajes, transmisiones por correa o cadena y ruedas de fricción.
+Las piezas se disponen sobre una zona de trabajo plana. Diversas
+piezas pueden situarse en un mismo eje, abarcando así una tercera
+dimensión. Las vistas esquema, detalle, perfil y 3D permiten una cómoda
+visualización de diferentes aspectos del mecanismo.
+Textos e imágenes pueden imprimirse o exportarse a otras aplicaciones
+para su posterior modificación. También pueden incluirse en documentos 
+creados por el usuario.
+La simulación muestra el funcionamiento del mecanismo, 
+con el detalle del movimiento de las piezas o bien mostrando el número
+de vueltas completadas por cada eje.
+En todo momento se muestran las características más relevantes del
+mecanismo (potencia, velocidad de giro y par) en un panel de resumen.
+El programa está dirigido a profesores y estudiantes de enseñanza
+secundaria por su sencillez y facilidad de uso. El tiempo de aprendizaje 
+sobre el uso del programa es muy breve, gracias a los menús gráficos, barra de 
+avisos, ejemplos de mecanismos, uso del ratón y un completo sistema 
+de ayuda.
+Las opciones de configuración son útiles para el uso personalizado
+del simulador.
+
+***** VERSIONES:
+
+1.0 (Diciembre de 2001) 
+	Primera versión.
+1.1 (Abril de 2002) 
+	Se permite el uso de la coma como separador decimal.
+	Se permite la modificación de los parámetros de funcionamiento de las piezas.
+	Se amplía el fichero de ayuda del programa.
+1.2 (Mayo de 2002)
+	Se calculan las dimensiones de las piezas dada su velocidad.
+	Se usan momentos de inercia.
+	Se usa la curva característica del motor.
+	Se permite incluir cargas y resistencias pasivas.
+	Se simula el régimen transitorio.
+	Se amplía el fichero de ayuda del programa.
+1.3 (Julio de 2002)
+	Se mejora el entorno gráfico.
+	Se muestran consejos al iniciar.
+	Al medir distancias, se muestra el segmento que une los dos puntos.
+	Se muestra el motor en la vista 3D.
+	Se permite situar las cargas igual que las piezas.
+	Se añade ayuda contextual al pulsar F1.
+	Se amplía el fichero de ayuda del programa.
+1.4 (Junio de 2003)
+	Se usan perfiles de envolvente para los dientes
+	Ángulo de presión variable
+	Ruedas dentadas helicoidales, con dentado en V y ángulo de inclinación variable
+	Grueso de las piezas variable.
+	Impresión a tamaño real.
+	Exportación del detalle de ruedas dentadas a formato DXF.
+	Se añaden 2 ejemplos nuevos.
+	Se amplía el fichero de ayuda del programa.
+1.5 (Junio de 2003)
+	Se añade flexibilidad al posicionamiento de piezas.
+	Se añade información sobre diámetros de ruedas cicloidales.
+2.0 (Septiembre de 2003)
+	Nuevas piezas : rueda dentada helicoidal, rueda dentada interior.
+	Nuevas transmisiones : engranaje interior, tren de engranajes planetario.
+	Se permite el bloqueo de ejes.
+	Se permite alternar el color de piezas para conseguir más contraste.
+	Se añaden 2 ejemplos nuevos.
+	Se amplía el fichero de ayuda del programa.
+
+***** SOPORTE TÉCNICO:
+
+Jaume Dellunde (jdellund@pie.xtec.es)
+
+Información online :
+
+http://www.terra.es/personal/jdellund/simulador.htm
+http://go.to/simulador
+http://simulador.sitio.net

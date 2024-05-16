@@ -1,0 +1,86 @@
+ARXIU DEL PROGRAMA RELATRAN 3.5
+
+***** CONTINGUTS:	Introducció al programa	
+			Versions
+			Problemes coneguts 
+			Contactar amb l'autor
+
+***** INTRODUCCIÓ AL PROGRAMA:
+
+Relatran facilita la pràctica d'exercicis sobre 
+mecanismes als estudiants de secundària. S'inclouen, entre
+altres, càlculs de forces, avantatges mecànics, diàmetres
+de politges, número de dents de rodes, relacions de
+transmissió, velocitats de gir i velocitats lineals.
+El programa resulta útil al professor en la preparació
+d'exercicis, i en la confecció d'exàmens.
+
+***** VERSIONS:
+
+Relatran 1.0 (Octubre 1998) Primera versió
+Relatran 2.0 (Gener 1999) Millores i ampliacions:
+
+	S'inclouen velocitats lineals
+	Els resultats d'exàmens es poden guardar al disc
+	Ampliació del nombre de mecanismes fins a 14
+	Arxiu d'ajuda ampliat
+	Menú d'impressió i ús de la carpeta de Windows
+	S'accepta ara la coma com a separador decimal
+	El quadre d'unitats passa del formulari al menú
+	
+Relatran 2.1 (Febrer 1999) Suport multillenguatge (català, castellà)
+Relatran 2.2 (Abril 1999) Suport multillenguatge també en anglès
+Relatran 2.21 (Maig 1999) Corregit 'bug' en un mecanisme
+Relatran 3.0 (Setembre 1999) Millores i ampliacions :
+
+	S'inclouen forces i avantatges mecànics
+	S'inclouen cinc màquines simples
+	Els mecanismes s'ordenen ara segons la seva funció
+	Arxiu d'ajuda ampliat
+
+Relatran 3.0.1 (Abril 2000) Corregit 'bug' en un mecanisme
+Relatran 3.1 (Maig 2000) S'inclouen animacions dels mecanismes
+Relatran 3.2 (Setembre 2000) Ampliacions :
+	S'inclou el Test
+	S'inclou accés a pàgines d'Internet sobre mecanismes
+	S'inclou so
+	S'inclou un nou menú gràfic
+
+Relatran 3.3 (Desembre 2000) Ampliacions :
+
+	S'inclou un cronòmetre
+	S'inclou velocitat variable de les animacions
+	S'inclouen activitats
+	S'inclou selecció del tipus de Test
+
+Relatran 3.4 (Desembre 2001) Millores :
+	
+	Nou programa d'instal·lació més estable
+	Compilació amb MS Visual Basic 6.0
+	Adaptació per a Windows XP
+	S'inclou una versió DEMO de "Simulador de mecanismos"
+	S'inclou un accés directe al simulador
+
+Relatran 3.5 (Juliol 2003) Millores i ampliacions:
+	
+	Corregit error en el cronòmetre
+	S'usa el sistema d'ajuda HTMLHelp
+	Actualització dels enllaços
+	S'inclouen les activitats i els enllaços a l'ajuda
+	S'inclou la versió en Euskera (Joseba Alkorta i col·laboradors)
+	S'inclou la versió en Galego (Manuel Veiga i col·laboradors)
+
+***** PROBLEMES CONEGUTS
+
+El programa no s'executa correctament si s'ajusten les fonts
+de Windows a format gran.
+Els colors no apareixen correctament a menys de 16 bits.
+
+***** CONTACTAR AMB L'AUTOR
+
+Jaume Dellunde
+IES Sant Andreu - Departament de Tecnologia
+Telèfon 933507666
+Fax 933594078
+e-mail: jdellund@pie.xtec.es
+homepage: http://www.terra.es/personal/jdellund

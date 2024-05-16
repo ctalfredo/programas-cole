@@ -1,0 +1,33 @@
+20,10,4,6,0,4
+0
+2.5,44,2.045454,21.98863,42.01691,5
+1,0
+1,1
+2,0
+2,1
+3,1
+3,0
+4,1
+5,1
+4,0
+6,1
+-2.312496,-44.65909,15.17045,-1,38.19719,1,1,500,2000,1,2.92929E-08,0,0,0,0,#FALSE#,0
+4.694638,-18.17324,29.25945,1,68.75494,3,.9,250,1800,2,8.031924E-09,0,0,0,0,#FALSE#,0
+4.538819,6.730297,12.53182,-1,123.7589,6,.9,125,1620,3,8.031924E-09,0,0,0,0,#FALSE#,0
+5.054411,35.58939,20.72651,1,222.766,9,.9,62.5,1458,4,3.307263E-09,0,0,0,0,#FALSE#,0
+20,1,2,1,2,10,2,0,0,0,5.669593E-07,0,0,0,.9396926,0,0,#FALSE#,0
+40,2,2,1,4,20,1,0,0,0,9.524916E-06,0,0,0,.9396926,0,0,#FALSE#,0
+20,2,2,2,5,10,4,0,0,0,5.669593E-07,0,0,0,.8660254,0,0,#FALSE#,0
+40,3,2,2,7,20,3,0,0,0,9.524916E-06,0,0,0,.8660254,0,0,#FALSE#,0
+20,3,2,3,8,10,6,0,0,0,5.669593E-07,0,0,0,.9848077,0,0,#FALSE#,0
+40,4,2,3,10,20,5,0,0,0,9.524916E-06,0,0,0,.9848077,0,0,#FALSE#,0
+"20º",-58.63636,27.95454
+"",2.727272,-14.6591
+"30º",5.795454,-13.63637
+"10º",44.65909,47.04545
+"ÁNGULO DE PRESIÓN :
+
+Para que dos ruedas dentadas engranen correctamente, el ángulo de presión que se usa para generar los dientes debe ser el mismo.
+En este mecanismo, las ruedas del engranaje de la izquierda comparten un ángulo de presión de 20º, que es el valor más habitual.
+Las ruedas del engranaje central se han generado con un ángulo de presión de 30º. Los perfiles son más curvos, y los dientes casi acaban en punta.
+En las ruedas del engranaje de la derecha los perfiles son casi segmentos rectos, generados con un ángulo de presión de 10º. Cuando se usan ángulos tan pequeños, es conveniente usar ruedas con un número elevado de dientes para evitar interfencias."

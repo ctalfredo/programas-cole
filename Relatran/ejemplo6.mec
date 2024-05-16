@@ -1,0 +1,21 @@
+20,7,3,0,4,0
+0
+2.5,88,-3.579545,11.96591,42.01691,5
+1,0
+1,3
+2,0
+2,3
+3,3
+3,0
+4,3
+0,-33.57954,11.67614,-1,38.19719,1,1,500,2000,1,2.92929E-08,0,0,0,0,#FALSE#,0
+3.141593,.8522732,11.67614,-1,13.79343,3,.65,900,1300,2,8.031924E-09,0,0,0,0,#FALSE#,10
+3.141593,36.98864,11.67614,-1,4.98096,6,.65,1620,845,3,3.307263E-09,0,0,0,0,#FALSE#,10
+30,1,1,1,2,0,2,1.351214,4.931971,1,"",3,#FALSE#,#TRUE#,3.059218E-06,0,0,0
+15,2,1,1,4,0,1,4.931971,1.351214,1,"",3,#FALSE#,#TRUE#,1.889864E-07,0,0,0
+30,2,1,2,5,0,4,1.36173,4.921456,1,"",3,#FALSE#,#TRUE#,3.059218E-06,0,0,0
+15,3,1,2,7,0,3,4.921456,1.36173,1,"",3,#FALSE#,#TRUE#,1.889864E-07,0,0,0
+"SISTEMA COMPUESTO DE POLEAS :
+
+El mecanismo consta de dos transmisiones por correa, donde la polea de mayor diámetro actúa como conductora de otra polea de menor diámetro. La polea doble actúa como elemento intermedio, normalmente sin estar unida a ningún árbol de transmisión.
+En este mecanismo, multiplicador, el árbol conducido gira a mayor velocidad que el motor, pero puede proporcionar un par menor."

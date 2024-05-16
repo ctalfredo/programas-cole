@@ -1,0 +1,20 @@
+20,6,3,0,3,0
+0
+2.5,44,-7.840909,21,42.01691,5
+1,0
+1,2
+2,0
+2,2
+3,0
+3,2
+-5.759586,-51.81818,24.71591,-1,38.19719,1,1,500,2000,1,2.92929E-08,0,0,0,0,#FALSE#,0
+3.141593,-6.81818,24.71591,1,55.17371,3,.65,225,1300,2,3.307263E-09,0,0,0,0,#FALSE#,10
+3.141593,38.18182,24.71591,-1,19.92384,5,.65,405,845,3,3.307263E-09,0,0,0,0,#FALSE#,10
+30,1,4,1,2,2,0,0,0,.8,"Acero",2,#FALSE#,#FALSE#,3.059218E-06,0,0,0
+60,2,4,1,4,3,0,0,0,.8,"Acero",2,#FALSE#,#FALSE#,4.898292E-05,0,0,0
+30,3,4,1,6,2,0,0,0,.8,"Acero",2,#FALSE#,#FALSE#,3.059218E-06,0,0,0
+"TRANSMISIÓN MEDIANTE RUEDAS DE FRICCIÓN :
+
+Cuando la rueda conducida tiene asociado un par resistente elevado,
+las fuerzas de fricción no son suficientemente grandes para transmitir
+el movimiento y se produce deslizamiento. En estos casos, la velocidad de las ruedas implicadas es menor a la que correspondería, atendiendo a la relación de transmisión del mecanismo (calculada simplemente a partir de los diámetros de las ruedas). Sin embargo, el mecanismo es bastante seguro. Si, por alguna razón, la rueda conducida se atasca, el resto de ruedas todavía podrán girar y se evitará la posible avería del motor."

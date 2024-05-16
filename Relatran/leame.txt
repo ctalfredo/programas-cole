@@ -1,0 +1,79 @@
+ARCHIVO DEL PROGRAMA RELATRAN 3.5
+
+***** CONTENIDO:	Introducción al programa	
+			Versiones
+			Problemas conocidos
+			Contactar con el autor
+
+
+***** INTRODUCCIÓN AL PROGRAMA:
+
+Relatran facilita la práctica de ejercicios sobre 
+mecanismos a los estudiantes de secundaria. Se incluyen,
+entre otros, cálculos de fuerzas, ventajas mecánicas,
+diámetros de poleas, número de dientes de ruedas,
+relaciones de transmisión, velocidades de giro y velocidades
+lineales.
+El programa resulta útil al profesor en la preparación
+de ejercicios, y en la confección de exámenes.
+
+***** VERSIONES:
+
+Relatran 1.0 (Octubre 1998) Primera versión
+Relatran 2.0 (Enero 1999) Mejoras y ampliaciones
+Relatran 2.1 (Febrero 1999) Soporte multilenguaje (catalán, español)
+Relatran 2.2 (Abril 1999) Soporte multilenguaje también en inglés
+Relatran 2.21 (Mayo 1999) Corregido 'bug' en un mecanismo
+Relatran 3.0 (Septiembre 1999) Mejoras y ampliaciones :
+
+	Se incluyen fuerzas y ventajas mecánicas
+	Se incluyen cinco máquinas simples
+	Los mecanismos se ordenan según su función
+	Archivo de ayuda ampliado
+
+Relatran 3.0.1 (Abril 2000) Corregido 'bug' en un mecanismo
+Relatran 3.1 (Mayo 2000) Se incluyen animaciones de los mecanismos
+Relatran 3.2 (Septiembre 2000) Ampliaciones :
+	Se incluye el Test
+	Se incluye acceso a páginas de Internet sobre mecanismos
+	Se incluye sonido
+	Se incluye un nuevo menú gráfico
+
+Relatran 3.3 (Diciembre 2000) Ampliaciones :
+	
+	Se incluye el cronómetro
+	Se incluye velocidad variable de las animaciones
+	Se incluyen actividades
+	Se incluye selección del Test
+
+Relatran 3.4 (Diciembre 2001) Mejoras :
+	
+	Nuevo programa de instalación más estable
+	Compilación usando MS Visual Basic 6.0
+	Adaptación para Windows XP
+	Se incluye una versión DEMO de "Simulador de mecanismos"
+	Se incluye un acceso directo al simulador
+
+Relatran 3.5 (Julio 2003) Mejoras y ampliaciones:
+	
+	Corregido error en el cronómetro
+	Se usa el sistema de ayuda HTMLHelp
+	Actualización de los enlaces
+	Se incluyen las actividades y los enlaces en la ayuda
+	Se incluye la versión en Euskera (Joseba Alkorta y colaboradores)
+	Se incluye la versión en Galego (Manuel Veiga y colaboradores)
+	
+***** PROBLEMAS CONOCIDOS
+
+El programa no se ejecuta correctamente si se ajustan las fuentes
+de Windows a gran formato.
+Los colores no aparecen correctamente a menos de 16 bits.
+
+***** CONTACTAR CON EL AUTOR
+
+Jaume Dellunde
+IES Sant Andreu - Departamento de Tecnología
+Teléfono 933507666
+Fax 933594078
+e-mail: jdellund@pie.xtec.es
+homepage: http://www.terra.es/personal/jdellund

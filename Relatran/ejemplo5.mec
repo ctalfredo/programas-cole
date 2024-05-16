@@ -1,0 +1,32 @@
+20,10,4,0,6,3
+0
+2.5,44,-9.545455,13.29545,42.01691,5
+1,0
+1,3
+2,0
+2,3
+3,3
+3,0
+4,3
+5,3
+4,0
+6,3
+-2.516956,-7.5,14.48864,-1,38.19719,1,1,500,2000,1,3.874222E-08,0,0,0,0,#FALSE#,0
+6.779367,-71.25,-20.02273,-1,12.41409,3,.65,1000,1300,2,3.307263E-09,0,0,0,0,#FALSE#,0
+3.759095,63.06818,64.60227,1,15.27887,6,.2,250,400,3,3.307263E-09,0,0,0,0,#FALSE#,0
+8.815319,46.70454,-23.35227,1,7.639437,9,.1,250,200,4,3.307263E-09,0,0,0,0,#FALSE#,0
+40,1,1,1,2,0,2,5.070183,2.205365,1,"",3,#FALSE#,#TRUE#,9.673743E-06,0,0,0
+20,2,1,1,4,0,1,2.205365,5.070183,1,"",3,#FALSE#,#TRUE#,6.023943E-07,0,0,0
+30,1,1,2,5,0,4,1.641543,5.876647,1,"",3,#TRUE#,#TRUE#,3.059218E-06,0,0,0
+60,3,1,2,7,0,3,2.735054,4.783135,1,"",3,#TRUE#,#TRUE#,4.898292E-05,0,0,0
+20,1,1,3,8,0,6,.4902977,4.57397,1,"",3,#TRUE#,#FALSE#,6.023943E-07,0,0,0
+40,4,1,3,10,0,5,1.432378,3.63189,1,"",3,#TRUE#,#FALSE#,9.673743E-06,0,0,0
+"Correa trapezoidal sin cruzar",-106.0227,6.818183
+"Correa trapezoidal cruzada",-25.56818,60.34091
+"Correa plana cruzada",28.97727,9.204547
+"TRANSMISIONES POR CORREA :
+
+La potencia total del motor se distribuye a tres árboles conducidos distantes, mediante transmisiones por correa.
+Dos poleas están unidas mediante una correa trapezoidal, y giran en el mismo sentido.
+Dos poleas están unidas mediante una correa plana cruzada, de manera que giran en sentidos opuestos. Esta disposición proporciona un agarre mejor entre las poleas y la correa, ya que la longitud de correa en contacto con las poleas es mayor.
+Finalmente, dos poleas están unidas mediante una correa trapezoidal cruzada."
